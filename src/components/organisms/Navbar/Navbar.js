@@ -5,11 +5,12 @@ import { ItemsList } from "../../molecules/ItemsList"
 import { SocialMediaIconsReact } from 'social-media-icons-react';
 import devIcon from '../../../static/icons/icon.svg'
 import { navbarData, socialIconsData } from "../../../staticData/data";
+import 'animate.css';
 
 
 export const Navbar = () => {
 	return (
-		<nav className='hidden lg:flex justify-evenly items-center'>
+		<nav className='hidden lg:flex justify-evenly'>
 			<Container design='m-4 cursor-pointer'>
 				<Image design={'w-14'} src={devIcon} alt={"dev icon"} />
 			</Container>

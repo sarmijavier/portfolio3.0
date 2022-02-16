@@ -34,7 +34,7 @@ const socialIconsData = [
 	{
 		design: "m-4 rounded	hover:bg-orange-50",
 		icon: "instagram",
-		url: "https://www.instagram.com/y4huarcani/",
+		url: "https://www.instagram.com/sarmijavier/",
 		backgroundColor: '#F8FAFB',
 		iconColor: "#1E3040",
 		borderColor: "#F8FAFB",
