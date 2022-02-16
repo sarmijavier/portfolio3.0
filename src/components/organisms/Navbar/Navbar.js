@@ -5,8 +5,6 @@ import { ItemsList } from "../../molecules/ItemsList"
 import { SocialMediaIconsReact } from 'social-media-icons-react';
 import devIcon from '../../../static/icons/icon.svg'
 import { navbarData, socialIconsData } from "../../../staticData/data";
-import 'animate.css';
-
 
 export const Navbar = () => {
 	return (
