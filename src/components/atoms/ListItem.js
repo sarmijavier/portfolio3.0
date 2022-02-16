@@ -7,7 +7,7 @@ export const ListItem = ({ children, design, anchor = false, setMenu, menu, mobi
 				anchor
 				?
 				<a onClick={() => mobile && setMenu(!menu)} href={anchor}>
-					<li className={design}>{ children }</li>
+					<li className={`${design} items-center animate__shakeX`}>{ children }</li>
 				</a>
 				:
 				<li className={design}>{ children }</li>
