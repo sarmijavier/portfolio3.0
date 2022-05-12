@@ -24,24 +24,6 @@ const navbarData = [
 const socialIconsData = [
 	{
 		design: "m-4 rounded	hover:bg-orange-50",
-		icon: "twitter",
-		url: "https://twitter.com/SarmiJavier",
-		backgroundColor: '#F8FAFB',
-		iconColor: "#1E3040",
-		borderColor: "#F8FAFB",
-		title: 'twitter'
-	},
-	{
-		design: "m-4 rounded	hover:bg-orange-50",
-		icon: "instagram",
-		url: "https://www.instagram.com/sarmijavier/",
-		backgroundColor: '#F8FAFB',
-		iconColor: "#1E3040",
-		borderColor: "#F8FAFB",
-		title: 'instagram'
-	},
-	{
-		design: "m-4 rounded	hover:bg-orange-50",
 		icon: "linkedin",
 		url: "https://www.linkedin.com/in/h-javier-sarmiento-y-28085a19a/",
 		backgroundColor: '#F8FAFB',
